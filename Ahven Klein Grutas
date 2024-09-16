@@ -1,0 +1,98 @@
+# Define a function for addition 2- def add(num1, num2):
+return num1 + num2
+# Define a function for subtraction
+def subtract (num1, num2):
+def subtract(num1, num2): return num1 - num2
+# Test the functions with int,
+float, and complex numbers print("Integer Operations: ")
+return num1 - num2
+num1_int = 10
+num2_int = 5
+# Test the functions with int,
+float, and complex numbers
+print("Integer Operations:")
+num1_int = 10
+num2_int = 5
+print(f"Addition: {add(num1_int
+print(f"Addition: {add(num1_int, num2_int)}")
+print (f"Subtraction: {subtract
+(num1_int, num2_int)}")
+print("\nFloat Operations:")
+num2_int)}")
+num1_float = 10.5
+print(f"Subtraction: {subtract
+(num1_int, num2_int)}")
+print("\nFloat Operations:")
+ num1_float = 10.5
+num2_float = 3.2
+print(f"Addition: {add(num1_float,
+num2_float = 3.2
+print(f"Addition: {add(num1_float, num2_float)}")
+ print(f"Subtraction: {subtract
+(num1_float, num2_float)}")
+print("\nComplex Operations: ")
+num2_float)}")
+num1_complex = 3 + 2j
+print(f"Subtraction: {subtract
+num2_complex = 1 - 1j
+print(f"Addition: {add(num1_complex
+num2_complex)}")
+Run
+print("Subtraction: {subtr
+(num1_float, num2_float)}")
+print("\nComplex Operations num1_complex = 3 + 2j num? complex 1 - 1i
+Run
+(num1_complex, num2_complex)} |
+
+
+
+# Online Python compiler
+(interpreter) to run Python
+online.
+
+num1 = 25 000 000
+num2 = 25000000
+
+print(num1)
+print(num2)
+
+
+# Online Python compiler
+return num1 - num2
+(interpreter) to run Python online.
+# Define a function for addition
+def add(num1, num2):
+#Test the functions with int, 
+float, and complex numbers print("Integer Operations: ")
+return num1 + num2
+
+num1_int = 30
+
+num2_int = 52
+
+print (f"Addition: {add(num1_int, num2_int)}")
+print (f"Subtraction: {subtract (num1_int, num2_int)}")
+print("\nFloat Operations: ")
+num1_float = 10.5
+num2_float = 3.2
+print (f"Addition: {add(num1_float,
+num2_float)}")
+print(f"Subtraction: {subtr
+(num1 float.
+num? float)}").
+print("Addition: {add(num1_int,
+num2_int)}")
+print("Subtraction: {subtract (num1_int, num2_int)}")
+print("\nFloat Operations: ") num1_float = 10.5
+num2_float = 3.2
+print(f" Addition: {add(num1_float, num2_float)}")
+ print(f" Subtraction: {subtract (num1_float, num2_float)}")
+print("\nComplex Operations: ") 25 num1_complex = 3 + 2j
+ num2_complex = 1 = 1j
+print("Addition: {add(num1_complex
+,num2_complex)}")
+ print("Subtraction: {subtr Run
+(num1_complex, num2_complex)})
+
+
+
